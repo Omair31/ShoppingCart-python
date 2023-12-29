@@ -5,3 +5,5 @@ def randomNumber():
 def anotherRandomNumberFunction():
  return 1.3
 
+def ammar():
+ return 3.4
